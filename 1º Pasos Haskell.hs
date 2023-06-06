@@ -34,7 +34,7 @@ Todos los tipos son comprobados en tiempo de compilación
     - Evita errores de tipo antes de la ejecución del programa-}
 
 
---Ejercicios
+--EJERCICIOS
 
 --Ejercicio 1
 sum' :: [Int] -> Int

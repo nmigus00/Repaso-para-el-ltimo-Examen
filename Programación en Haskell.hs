@@ -7,7 +7,8 @@ Programa que ejecuta instrucciones espécificas escritas
 en el código del lenguaje fuente junto a una entrada 
 suministrada por el usuario de forma directa-}
 
---Ejercicios
+--EJERCICIOS
+
 --Ejercicio 1
 --Haskell evaluaría la expresión como f(a) + b
 
